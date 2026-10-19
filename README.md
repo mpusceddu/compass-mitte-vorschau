@@ -6,7 +6,7 @@ Eigenständiger Entwurf zur Abstimmung. Die bestehende Website https://www.compa
 
 Nach Aktivierung von GitHub Pages: https://mpusceddu.github.io/compass-mitte-vorschau/
 
-Acht Hauptbereiche, vier vollständige Originalbeiträge, Original-Logo und das Original-PDF von Ruprecht Polenz. Das Video von Dieter Breymann ist zur Originalseite verlinkt. Ein zusätzlicher Beitrag von Marco Pusceddu ist ausdrücklich als neuer Textentwurf gekennzeichnet.
+Acht Hauptbereiche, das vollständige Grundsatzpapier mit allen 14 Punkten als lesbarer Urtext und Original-PDF, vier vollständige Originalbeiträge, Original-Logo und das Original-PDF von Ruprecht Polenz. Das Video von Dieter Breymann ist zur Originalseite verlinkt. Ein zusätzlicher Beitrag von Marco Pusceddu ist ausdrücklich als neuer Textentwurf gekennzeichnet.
 
 Formulare sind Ansichten ohne Versand oder Speicherung. Keine Newsletter-Anmeldung und keine echte Unterzeichnung. Die Vorschau ist ohne Anmeldung erreichbar; Suchmaschinen werden mit `noindex` und `robots.txt` vom Indexieren abgehalten. Das ist kein Zugangsschutz.
 
