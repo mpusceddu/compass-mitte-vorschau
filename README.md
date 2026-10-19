@@ -18,7 +18,7 @@ Formulare sind Ansichten ohne Versand oder Speicherung. Keine Newsletter-Anmeldu
 python3 build.py
 ```
 
-CSS, JavaScript und Medien liegen in `dist/assets/`. GitHub Pages veröffentlicht ausschließlich `dist/` über den Workflow. Keine eigene Domain und keine Änderungen an compassmitte.net.
+CSS, JavaScript und Medien liegen in `dist/assets/`. GitHub Pages veröffentlicht den separaten Zweig `gh-pages` aus dessen Wurzelverzeichnis. Dieser Zweig enthält ausschließlich die geprüften Dateien aus `dist/`. Änderungen zunächst in `main` bearbeiten, mit `python3 build.py` erzeugen und anschließend den Inhalt von `dist/` auf `gh-pages` bereitstellen. Der frühere eigene Actions-Workflow ist deaktiviert; die Bereitstellung übernimmt GitHubs integrierter Pages-Ablauf. Keine eigene Domain und keine Änderungen an compassmitte.net.
 
 ## Rechte
 
