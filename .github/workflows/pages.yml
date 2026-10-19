@@ -8,14 +8,15 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: pages
+  group: compass-preview-pages-arm
   cancel-in-progress: true
 jobs:
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04-arm
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -29,3 +30,4 @@ jobs:
       - name: Vorschau bereitstellen
         id: deployment
         uses: actions/deploy-pages@v4
+
