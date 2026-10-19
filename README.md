@@ -1,4 +1,4 @@
-# Compass Mitte · Gestaltungsvorschau
+# CompassMitte · Gestaltungsvorschau
 
 Eigenständiger Entwurf zur Abstimmung. Die bestehende Website https://www.compassmitte.net/ bleibt unverändert.
 
