@@ -24,3 +24,7 @@ document.querySelectorAll('[data-demo-form]').forEach(form=>{
 });
 const search=document.getElementById('signer-search');
 if(search){const items=[...document.querySelectorAll('[data-signer]')];const groups=[...document.querySelectorAll('.signer-group')];const normalize=s=>s.toLocaleLowerCase('de-DE').normalize('NFD').replace(/[\u0300-\u036f]/g,'');search.addEventListener('input',()=>{const q=normalize(search.value.trim());let count=0;items.forEach(li=>{const show=normalize(li.dataset.search).includes(q);li.hidden=!show;if(show)count++});groups.forEach(group=>group.hidden=![...group.querySelectorAll('[data-signer]')].some(li=>!li.hidden));document.getElementById('signer-status').textContent=q?(count===0?'Keine passenden Einträge gefunden.':`${count} passende Einträge in der Quellliste.`):'Quellstand: veröffentlichte Liste · geprüft am 19. Oktober 2026';});}
+
+// Sprungziele im Urtext funktionieren auch bei zugeklappter Übersicht.
+const pointOverview=document.getElementById('punkte-ueberblick');
+document.querySelectorAll('a[href="#punkte-ueberblick"]').forEach(a=>a.addEventListener('click',()=>{if(pointOverview)pointOverview.open=true}));
