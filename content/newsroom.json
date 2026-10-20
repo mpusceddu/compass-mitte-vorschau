@@ -3,120 +3,151 @@
     "title": "Wahlstudie",
     "url": "https://www.compassmitte.net/wahlstudie/",
     "medium": "Tagesspiegel",
-    "date": "04.12.2025"
+    "date": "04.12.2025",
+    "description": "Eine Studie der Konrad-Adenauer-Stiftung untersucht Wählerbewegungen bei der Bundestagswahl 2025.",
+    "direct_url": "https://www.tagesspiegel.de/politik/wahlstudie-der-adenauer-stiftung-merz-migrationskurs-half-der-linken-15005809.html"
   },
   {
     "title": "Brandmauer",
     "url": "https://www.compassmitte.net/brandmauer/",
     "medium": "Kölner Stadt-Anzeiger",
-    "date": "27.11.2025"
+    "date": "27.11.2025",
+    "description": "Dennis Radtke über die Abgrenzung zur AfD und das soziale Profil der Union.",
+    "direct_url": "https://www.ksta.de/politik/nrw-politik/cda-chef-radtke-sollte-sie-mit-der-afd-zusammenarbeiten-waere-die-cdu-kaputt-1157285"
   },
   {
     "title": "Ein Weckruf",
     "url": "https://www.compassmitte.net/ein-weckruf/",
     "medium": "WDR",
-    "date": "15.11.2025"
+    "date": "15.11.2025",
+    "description": "Der WDR stellt CompassMitte vor und fragt nach der politischen Richtung der Initiative.",
+    "direct_url": "https://www1.wdr.de/politik/politik-in-nrw/compass-mitte-cdu-100.amp"
   },
   {
     "title": "Christlicher Markenkern",
     "url": "https://www.compassmitte.net/christlicher-markenkern/",
     "medium": "katholisch.de",
-    "date": "09.11.2025"
+    "date": "09.11.2025",
+    "description": "Peter Neher über das christliche Selbstverständnis der CDU und ihr soziales Profil."
   },
   {
     "title": "Rückendeckung für Wadephul",
     "url": "https://www.compassmitte.net/rueckendeckung-fuer-wadephul/",
     "medium": "Deutschlandfunk",
-    "date": "08.11.2025"
+    "date": "08.11.2025",
+    "description": "Die Debatte um Johann Wadephuls Syrien-Äußerungen und die Unterstützung aus CompassMitte.",
+    "direct_url": "https://www.deutschlandfunk.de/neue-syrien-aeusserung-von-wadephul-stoesst-auf-unverstaendnis-unterstuetzung-kommt-aus-compass-mitt-100.html"
   },
   {
     "title": "Mehr Sachlichkeit in der Migrationsdebatte",
     "url": "https://www.compassmitte.net/mehr-sachlichkeit-in-der-migrationsdebatte/",
     "medium": "SWR Aktuell",
-    "date": "07.11.2025"
+    "date": "07.11.2025",
+    "description": "Monica Wüllner über die Lage in Syrien und einen sachlichen Umgang mit der Rückkehrdebatte.",
+    "direct_url": "https://www.swr.de/swraktuell/baden-wuerttemberg/abschiebung-nach-syrien-cdu-debatte-100.html"
   },
   {
     "title": "Gestärktes „C“, gestärkte Volkspartei",
     "url": "https://www.compassmitte.net/gestaerktes-c-gestaerkte-volkspartei/",
     "medium": "DOMRADIO",
-    "date": "07.11.2025"
+    "date": "07.11.2025",
+    "description": "Unterzeichnende erläutern, warum sie für eine sozialere und christlichere Union eintreten.",
+    "direct_url": "https://www.domradio.de/artikel/compass-mitte-unterzeichner-wollen-sozialere-und-christlichere-union"
   },
   {
     "title": "„NZZ Machtspiel“-Interview mit Ruprecht Polenz",
     "url": "https://www.compassmitte.net/nzz-machtspiel-interview-mit-ruprecht-polenz/",
     "medium": "NZZ Machtspiel",
-    "date": "06.11.2025"
+    "date": "06.11.2025",
+    "description": "Ruprecht Polenz im Gespräch mit dem NZZ-Format „Machtspiel“."
   },
   {
     "title": "Porträt zu Monica Wüllner",
     "url": "https://www.compassmitte.net/portraet-zu-monica-wuellner/",
     "medium": "Badischer Staatsanzeiger",
-    "date": "06.11.2025"
+    "date": "06.11.2025",
+    "description": "Ein Porträt über Monica Wüllners politischen Weg und ihr Engagement in der CDU.",
+    "direct_url": "https://www.staatsanzeiger.de/nachrichten/politik-und-verwaltung/monica-wuellner-hat-in-der-cdu-frueh-spuren-hinterlassen/"
   },
   {
     "title": "KONTEXT-Interview mit Monica Wüllner",
     "url": "https://www.compassmitte.net/kontext-interview-mit-monica-wuellner/",
     "medium": "KONTEXT",
-    "date": "05.11.2025"
+    "date": "05.11.2025",
+    "description": "Monica Wüllner erläutert die Entstehung der Initiative und ihr christlich-soziales Selbstverständnis.",
+    "direct_url": "https://www.kontextwochenzeitung.de/politik/762/mit-kompass-10537.html"
   },
   {
     "title": "Junge Stimmen in der CDU",
     "url": "https://www.compassmitte.net/junge-stimmen-in-der-cdu/",
     "medium": "Berliner Zeitung",
-    "date": "04.11.2025"
+    "date": "04.11.2025",
+    "description": "Jüngere CDU-Mitglieder sprechen über die Rolle der Initiative und den Kurs ihrer Partei.",
+    "direct_url": "https://www.berliner-zeitung.de/article/wir-sind-keine-revolte-gegen-friedrich-merz-junge-cdu-mitglieder-ringen-um-parteikurs-10004019"
   },
   {
     "title": "Unterstützung in der Union",
     "url": "https://www.compassmitte.net/unterstuetzung-in-der-union/",
     "medium": "Süddeutsche Zeitung",
-    "date": "02.11.2025"
+    "date": "02.11.2025",
+    "description": "Berichterstattung über die Resonanz auf CompassMitte innerhalb der Union."
   },
   {
     "title": "Dlf-Interview mit Ruprecht Polenz",
     "url": "https://www.compassmitte.net/dlf-interview-mit-ruprecht-polenz/",
     "medium": "Deutschlandfunk",
-    "date": "31.10.2025"
+    "date": "31.10.2025",
+    "description": "Ruprecht Polenz über die Ausrichtung der CDU und den Umgang mit dem Thema Migration.",
+    "direct_url": "https://www.deutschlandfunk.de/cdu-gruppe-compass-mitte-kritisiert-ausrichtung-der-partei-auf-das-thema-migration-102.html"
   },
   {
     "title": "SWR-Interview mit Marco Pusceddu",
     "url": "https://www.compassmitte.net/interview-mit-marco-pusceddu/",
     "medium": "SWR Aktuell",
-    "date": "29.10.2025"
+    "date": "29.10.2025",
+    "description": "Marco Pusceddu spricht über CompassMitte und die Abgrenzung zur AfD.",
+    "direct_url": "https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/compass-mitte-brandmauer-afd-interview-cdu-politiker-pusceddu-vallendar-100.html"
   },
   {
     "title": "StZ-Interview mit Monica Wüllner",
     "url": "https://www.compassmitte.net/interview-mit-monica-wuellner/",
     "medium": "Stuttgarter Zeitung",
-    "date": "31.10.2025"
+    "date": "31.10.2025",
+    "description": "Monica Wüllner im Interview über die Initiative und ihre Anliegen innerhalb der CDU."
   },
   {
     "title": "WELT-Interview mit Monica Wüllner",
     "url": "https://www.compassmitte.net/mehr-christlich-soziale-und-liberale-werte/",
     "medium": "WELT",
-    "date": "30.10.2025"
+    "date": "30.10.2025",
+    "description": "Monica Wüllner über christlich-soziale und liberale Werte in der Union."
   },
   {
     "title": "Rückkehr zur Volkspartei",
     "url": "https://www.compassmitte.net/kurskorrektur/",
     "medium": "Stern",
-    "date": "29.10.2025"
+    "date": "29.10.2025",
+    "description": "Ein Bericht über die Forderung nach einer Kurskorrektur und die Rolle der CDU als Volkspartei."
   },
   {
     "title": "Profil schärfen, Mitte sichtbar machen",
     "url": "https://www.compassmitte.net/profil-schaerfen-mitte-sichtbar-machen/",
     "medium": "Neue Osnabrücker Zeitung",
-    "date": "28.10.2025"
+    "date": "28.10.2025",
+    "description": "Ein Beitrag zum Profil der Union und zur Sichtbarkeit ihrer politischen Mitte."
   },
   {
     "title": "Kurskorrektur mit Haltung",
     "url": "https://www.compassmitte.net/kurskorrektur-mit-haltung/",
-    "medium": "Compass Mitte",
-    "date": "29.10.2025"
+    "medium": "CompassMitte",
+    "date": "29.10.2025",
+    "description": "Ein archivierter Beitrag zur politischen Ausrichtung der Union."
   },
   {
     "title": "„Der CDU-Opa“ (Rundblick Niedersachsen)",
     "url": "https://www.compassmitte.net/der-cdu-opa-rundblick-niedersachsen/",
     "medium": "Rundblick Niedersachsen",
-    "date": "26.10.2025"
+    "date": "26.10.2025",
+    "description": "Der Rundblick Niedersachsen stellt Ruprecht Polenz und seine Positionen vor."
   }
 ]
